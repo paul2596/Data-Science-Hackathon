@@ -23,7 +23,7 @@ Bing seemed to give better prioritized results for extracting the companies Link
 * Each url was processed with an interval of 5 seconds to avoid triggering the human verification prompt.
 * Source code:scrape_startups.ipynb,selenium_scrape_linkedin.ipynb
 
-## Extracting requred content from HTML 
+## Extracting required content from HTML 
 * Once the html content was extracted for all the URLs. It was looped through and based on class name or id in the HTML tags the required text part was extracted into a pandas data frame.
 * Source code:linkedin_data_from_html.ipynb
 ## The following data fields were extracted:
