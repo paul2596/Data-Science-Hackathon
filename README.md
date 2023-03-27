@@ -16,14 +16,16 @@ Bing seemed to give better prioritized results for extracting the companies Link
   <img src="https://github.com/paul2596/Data-Science-Hackathon/blob/main/img/linkedIn_bing_microsoft.jpg" width="650" alt="alt text">
 </p>
 
-## Extracting links
+## Extracting links and html content
 * Forming search query: **({company name} + {website} + LinkedIn about page)**
   Example: **"Missionware PC https://www.missionware.com LinkedIn about page"**  
-  
-* The links were extracted and the html content from the companies LinkedIn profile was saved using the selenium library which automated the process.
+* The links were used and the html content from the companies LinkedIn profile was saved using the selenium library which automated the process.
 * Each url was processed with an interval of 5 seconds to avoid triggering the human verification prompt.
-* Once the html content was extracted for all the URLs. It was looped through and based on class name or id in the HTML tags the required text part was extracted into a pandas data frame.
+* Source code:scrape_startups.ipynb,selenium_scrape_linkedin.ipynb
 
+## Extracting requred content from HTML 
+* Once the html content was extracted for all the URLs. It was looped through and based on class name or id in the HTML tags the required text part was extracted into a pandas data frame.
+* Source code:linkedin_data_from_html.ipynb
 ## The following data fields were extracted:
 * Name
 * Summary
