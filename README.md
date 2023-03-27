@@ -8,7 +8,6 @@
 ## Choosing search engines:
 * Google
 * Bing
-* Duck duck go
 
 ### Validating sources for extracting LinkedIn links:
 Bing seemed to give better prioritized results for extracting the companies LinkedIn url. This could be because Bing is from Microsoft and LinkedIn is a subsidiary of Microsoft, the search results might be tuned better for LinkedIn.
