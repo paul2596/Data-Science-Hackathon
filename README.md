@@ -42,8 +42,9 @@ Once all the html content was extracted for all the URLs. It was looped through 
 * The company name and domain names obtained from Greece startups database was compared with the ones on LinkedIn and a boolean column was added.
 
 * If the primary location had 'GR' in it a boolean column is_greece was added.
-* <p align="center">
-  <img src="https://github.com/paul2596/Data-Science-Hackathon/blob/main/img/linkedInValidation.jpg" width="650" alt="alt text">
+
+<p align="center">
+  <img src="https://github.com/paul2596/Data-Science-Hackathon/blob/main/img/linkedInValidation.jpg" width="950" alt="alt text">
 </p>
 
 ## Options for companies that were not found.
