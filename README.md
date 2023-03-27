@@ -42,7 +42,7 @@ Bing seemed to give better prioritized results for extracting the companies Link
 * Primary location
 
 
-## Further to revalidate the extracted content and ensure data quality the following validations were performed.
+## Further to revalidate the extracted content and ensure data quality the following validations were performed
 
 * The company name and domain names obtained from Greece startups database was compared with the ones on LinkedIn and a boolean column was added.
 
@@ -52,6 +52,6 @@ Bing seemed to give better prioritized results for extracting the companies Link
   <img src="https://github.com/paul2596/Data-Science-Hackathon/blob/main/img/linkedInValidation.jpg" width="950" alt="alt text">
 </p>
 
-## Options for companies that were not found.
+## Options for companies that were not found
 Lookup keywords on Twitter, Facebook and Job Portals to get an idea of what they actually do and relate the company to a particular industry.
 
