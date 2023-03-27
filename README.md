@@ -10,7 +10,7 @@
 * Bing
 
 ### Validating sources for extracting LinkedIn links:
-Bing seemed to give better prioritized results for extracting the companies LinkedIn url. This could be because Bing is from Microsoft and LinkedIn is a subsidiary of Microsoft, the search results might be tuned better for LinkedIn.
+Bing seemed to give better prioritized results for extracting the companies LinkedIn url. This could be because Bing is from Microsoft and LinkedIn is again a  subsidiary of Microsoft, the search results might be tuned better for LinkedIn.
 
 <p align="center">
   <img src="https://github.com/paul2596/Data-Science-Hackathon/blob/main/img/linkedIn_bing_microsoft.jpg" width="650" alt="alt text">
