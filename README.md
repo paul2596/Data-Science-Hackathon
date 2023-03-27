@@ -13,6 +13,9 @@
 ### Validating sources for extracting LinkedIn links:
 Bing seemed to give better prioritized results for extracting the companies LinkedIn url. This could be because Bing is from Microsoft and LinkedIn is a subsidiary of Microsoft, the search results might be tuned better for LinkedIn.
 
+<p align="center">
+  <img src="https://github.com/paul2596/Data-Science-Hackathon/blob/main/img/linkedIn_bing_microsoft.jpg" width="650" alt="alt text">
+</p>
 
 Once the links were extracted we got the html content from the companies LinkedIn profile using the selenium library to automate the process.
 Each url was processed with an interval of 5 seconds to avoid triggering the human verification prompt.
