@@ -5,7 +5,7 @@
 * Facebook
 * Instagram
 ## Obtaining list of startups
-* From the Elevate website the JSON content was used to get a list of all the companies and their website.
+* From the website containing list of startups the JSON content was used to get a list of all the companies and their website.
 
 ## Choosing search engines:
 * Google
